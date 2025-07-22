@@ -76,7 +76,7 @@ Data visualization bridges the gap between raw data and decision-making. A well-
 
 If you're a recruiter, mentor, or fellow data enthusiast, I'd love to connect!
 
-- 🔗 [LinkedIn Profile](#www.linkedin.com/in/cheshta-grover-7ba10a291)
+- 🔗 [LinkedIn Profile](www.linkedin.com/in/cheshta-grover-7ba10a291)
 - 💼 Open to internship and freelance opportunities in Data Analysis.
 
 ---
